@@ -1,4 +1,4 @@
-worldtree
+WorldTree
 =========
 WorldTree is a constrained random map generator.
 
